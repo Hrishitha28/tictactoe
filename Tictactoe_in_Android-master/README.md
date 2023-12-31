@@ -1,10 +1,3 @@
-# Tictactoe Android App <a href="https://github.com/Abdullah-Sheikh"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=Abdullah-Sheikh&style=flat-square" width="125"/></a>[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](#) [![GitHub Forks](https://img.shields.io/github/forks/Abdullah-Sheikh/Tictactoe_in_Android.svg?style=social&label=Fork&maxAge=2592000)](https://www.github.com/Abdullah/Tictactoe_in_Android//fork)[![GitHub Issues](https://img.shields.io/github/issues/Abdullah-Sheikh/Tictactoe_in_Android/.svg?style=flat&label=Issues&maxAge=2592000)](https://www.github.com/Abdullah-Sheikh/management-System/issues)[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=red&colorB=black	)](#)
-
-
-
-
-
-https://user-images.githubusercontent.com/62107887/130690253-f670eb6f-33ff-4abf-9353-dfc867808554.mp4
 
 
 
@@ -15,15 +8,15 @@ https://user-images.githubusercontent.com/62107887/130690253-f670eb6f-33ff-4abf-
 
 
 
-# Tic Tac Toe is a free classic puzzle game also known as Noughts and Crosses.
 
-### Our free Tic Tac Toe game offers:
 
-✓ Play with AI (computer)
-✓ 2 players game (multiplayer)
-✓ game statistics
-✓ On or Off sound and vibration.
-✓ Attractive Design (Minimal Design)
+
+
+
+
+# Tic Tac Toe is a puzzle game also known as Noughts and Crosses.
+
+
 
 The Tic Tac Toe game is a game for two players, who take turns marking the spaces in a 3×3 grid. The player who succeeded in placing three respective marks in a horizontal, vertical, or diagonal row wins the game.
 
@@ -35,7 +28,6 @@ The Tic Tac Toe is a great way to pass your free time whether you're standing in
 
 
 
-<a href="https://play.google.com/store/apps/details?id=com.techsoldev.tictactoegame" target="_blank"> <img src="https://user-images.githubusercontent.com/62107887/130696039-68b4276e-8b78-4eb6-8aa9-ac2ac681e828.png" width="150" height="70" > </a>
 
 
 
@@ -59,20 +51,5 @@ The Tic Tac Toe is a great way to pass your free time whether you're standing in
 
 
 
-feel free to Star or Fork it and make your changes , then make pull request.
 
-We will appreciate your Changes and Review it 😄
-
-<div align="center">
-	<br>
-	<br>
-	<br>
-	<br>
-	<img src="https://enterprise.github.com/assets/spinners/octocat-spinner-128-26a44333917854c6794d55eac947b1277fced54f1f60c5df5d93431db8753bc5.gif" width="40" height="40">
-	<p>Loading</p>
-	<br>
-	<br>
-	<br>
-	<br>
-</div>
 
